@@ -38,6 +38,6 @@ The project likely involved steps such as data cleaning, feature engineering, mo
 * confusion matrix
 * classification report
 
-
+<h6><b>  8.	Graphical user interface   </h6> </b>
 
 
