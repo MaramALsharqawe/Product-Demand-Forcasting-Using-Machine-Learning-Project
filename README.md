@@ -4,7 +4,7 @@ The "Product Demand Forecasting Using Machine Learning" project aimed to predict
 
 A LightGBM (LGBM) classifier was chosen as the machine learning model due to its effectiveness in handling large datasets and its ability to capture complex relationships between features. The model achieved an accuracy of 87%, indicating its capability to accurately predict product demand based on the provided data.
 
-The project likely involved steps such as data cleaning, feature engineering, model selection, hyperparameter tuning, and model evaluation. The successful implementation of the LGBM classifier suggests that it can be a valuable tool for businesses to optimize inventory management and plan production schedules based on anticipated demand patterns.
+The project involved steps such as data cleaning, feature engineering, model selection, hyperparameter tuning, and model evaluation. The successful implementation of the LGBM classifier suggests that it can be a valuable tool for businesses to optimize inventory management and plan production schedules based on anticipated demand patterns.
 
 <h2><b> Project Outlines :  </h2>
   <h6> 1.Import Libraries  </h6>
